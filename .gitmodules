@@ -1,0 +1,3 @@
+[submodule "DVAR"]
+	path = DVAR
+	url = https://github.com/brandontrabucco/DVAR.git
